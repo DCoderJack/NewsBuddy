@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Natasha Turak",
+      "title": "UN nuclear inspection team 'on its way' to Zaporizhzhia plant; Ukraine begins counter-offensive to retake Kherson - CNBC",
+      "description": "The U.N.'s nuclear watchdog plans to perform a series of inspections to monitor for safety, functionality, and staff conditions, its director said.",
+      "url": "https://www.cnbc.com/2022/08/29/russia-ukraine-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107105178-1660745688127-gettyimages-1242554305-AFP_32GN3RQ.jpeg?v=1660746102&w=1920&h=1080",
+      "publishedAt": "2022-08-29T14:34:00Z",
+      "content": "Ukraine could be seeing its coldest winter in decades over the coming months, the head of its state gas company Naftogaz said, as centralized heating infrastructure will turn on later in the season a… [+786 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "Commanders' Brian Robinson Jr. shot multiple times in attempted robbery; team, Ron Rivera release statements - CBS Sports",
+      "description": "The running back is reportedly in stable condition",
+      "url": "https://www.cbssports.com/nfl/news/commanders-brian-robinson-jr-shot-multiple-times-in-attempted-robbery-team-ron-rivera-release-statements/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/08/13/9919ccdd-8683-4208-92ed-bdd2bb271f93/thumbnail/1200x675/c0f3421888f47659eeff73f2524c8f9c/brian-robinson-usatsi.jpg",
+      "publishedAt": "2022-08-29T14:18:00Z",
+      "content": "A day after sitting out the Commanders' preseason finale in anticipation of a big role this regular season, rookie running back Brian Robinson Jr. was shot multiple times as the victim of an attempte… [+2207 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WESH Orlando" },
+      "author": null,
+      "title": "Artemis 1 launch scrubbed - WESH 2 Orlando",
+      "description": "The NASA Artemis 1 launch was scrubbed Monday.",
+      "url": "https://www.wesh.com/article/watch-live-artemis-launch/41016789",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/nasa-artemis-1-sls-rocket-1661731462.png?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2022-08-29T13:45:00Z",
+      "content": "The NASA Artemis 1 launch was scrubbed Monday.\r\nFuel leaks have forced NASA to scrub the launch of its new moon rocket on a no-crew test flight.\r\nThe next launch attempt will not take place until Fri… [+2803 chars]"
+    },
+    {
+      "source": { "id": null, "name": "TMZ" },
+      "author": "TMZ Staff",
+      "title": "6ix9ine's Girlfriend Arrested for Domestic Violence After Fight in Miami - TMZ",
+      "description": "Teskashi 6ix9ine's girlfriend was arrested this weekend after a dustup in Miami ... an altercation that's on video.",
+      "url": "https://www.tmz.com/2022/08/29/6ix9ine-jade-rachel-wattley-arrested-domestic-violence-fight-miami/",
+      "urlToImage": "https://imagez.tmz.com/image/69/16by9/2022/08/29/6961f3816d594d45b5d2608a0fffe65c_xl.jpg",
+      "publishedAt": "2022-08-29T13:44:00Z",
+      "content": "Tekashi 6ix9ine's girlfriend was arrested this weekend after a dustup in Miami ... an altercation that's on video.\r\nRachel Wattley -- who goes by Jade -- was busted Sunday night on a battery charge r… [+1886 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Matias Grez, CNN",
+      "title": "US Open: Serena Williams' last hurrah at home grand slam headlines fascinating two weeks of tennis - CNN",
+      "description": "The curtain will soon come down on one of the greatest careers the world of sport has ever seen and Flushing Meadows, the home of the US Open, will provide a fitting stage for Serena Williams' final act.",
+      "url": "https://www.cnn.com/2022/08/28/tennis/us-open-preview-serena-williams-rafael-nadal-spt-intl/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220825154519-serena-williams-1999-us-open-super-tease.jpg",
+      "publishedAt": "2022-08-29T13:41:00Z",
+      "content": "(CNN)The curtain will soon come down on one of the greatest careers the world of sport has ever seen and Flushing Meadows, the home of the US Open, will provide a fitting stage for Serena Williams' f… [+7091 chars]"
+    },
+    {
+      "source": { "id": "bloomberg", "name": "Bloomberg" },
+      "author": null,
+      "title": "What Will Apple Call Its AR/VR Headsets? Reality One, Reality Pro Names Emerge - Bloomberg",
+      "description": null,
+      "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=ab9c708c-27aa-11ed-b08e-54696367634f&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wOC0yOC93aGF0LXdpbGwtYXBwbGUtY2FsbC1pdHMtYXItdnItaGVhZHNldHMtcmVhbGl0eS1vbmUtcmVhbGl0eS1wcm8tbmFtZXMtZW1lcmdl",
+      "urlToImage": null,
+      "publishedAt": "2022-08-29T13:36:35Z",
+      "content": "To continue, please click the box below to let us know you're not a robot."
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Qassim Abdul-zahra",
+      "title": "Iraqi Shiite cleric plans to resign; followers storm palace - The Associated Press - en Español",
+      "description": "BAGHDAD (AP) — At least one demonstrator, a follower of an influential Shiite cleric, was killed in clashes with Iraqi security forces who used tear gas, gunfire and physically shoved back crowds after hundreds stormed the government palace on Monday.",
+      "url": "https://apnews.com/article/middle-east-religion-iraq-muqtada-al-sadr-7ca58a185c06d81131f74c5b7790cd1a",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/fc4bd5c1cb754808b7011ef3e2a5424a/3000.jpeg",
+      "publishedAt": "2022-08-29T13:26:27Z",
+      "content": "BAGHDAD (AP) At least one demonstrator, a follower of an influential Shiite cleric, was killed in clashes with Iraqi security forces who used tear gas, gunfire and physically shoved back crowds after… [+5819 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Fed Chair Powell finally sent markets the right message, says Mohamed El-Erian - CNBC Television",
+      "description": "Mohamed El-Erian, Allianz and Gramercy advisor and president of Queens’ College, Cambridge, joins CNBC's 'Squawk Box' to break down Fed Chair Jerome Powell's...",
+      "url": "https://www.youtube.com/watch?v=w7xLXjo-b-c",
+      "urlToImage": "https://i.ytimg.com/vi/w7xLXjo-b-c/hqdefault.jpg",
+      "publishedAt": "2022-08-29T13:08:36Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "2022 NFL preseason Week 3, one thing we learned about each team: Dolphins, Chiefs show off weapons - CBS Sports",
+      "description": "Takeaways from all 32 clubs heading into Week 1",
+      "url": "https://www.cbssports.com/nfl/news/2022-nfl-preseason-week-3-one-thing-we-learned-about-each-team-dolphins-chiefs-show-off-weapons/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/08/29/ede57671-cb4c-4ddc-a450-1f3f435f56bb/thumbnail/1200x675/ab266776e18d75a74902a2d0f25f9736/tyreek-hill.jpg",
+      "publishedAt": "2022-08-29T12:59:24Z",
+      "content": "The 2022 NFL preseason is officially in the books. All 32 teams are now setting their sights on finalizing their rosters and preparing for Week 1. That doesn't mean the final preseason games were uni… [+7178 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "https://www.theguardian.com/profile/joannawalters",
+      "title": "Trump lawyers and DoJ renew battle over documents seized from Mar-a-Lago – live - The Guardian US",
+      "description": "Justice department faces deadline for more detailed inventory of files while ex-president’s team must argue for review by special master",
+      "url": "https://www.theguardian.com/us-news/live/2022/aug/29/trump-fbi-documents-special-master-biden-us-politics-latest-updates",
+      "urlToImage": "https://i.guim.co.uk/img/media/129c5cf62db93ab260e6e823c78f32eb53e89c06/169_0_4933_2962/master/4933.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=cd4443645aeb3e0907e9b3a1d1d6d181",
+      "publishedAt": "2022-08-29T12:49:00Z",
+      "content": "Department of Justice squares off against Donald Trump's team over FBI search at Mar-a-Lago\r\nThe Department of Justice has until tomorrow to present a more detailed list of items that were seized fro… [+9367 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Jesse Pound",
+      "title": "Dow futures slide 200 points, building on last week's sharp sell-off - CNBC",
+      "description": "Wall Street is looking for a rebound after the Dow fell more than 1,000 points on Friday.",
+      "url": "https://www.cnbc.com/2022/08/28/stock-market-news-futures-open-to-close-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107110219-1661547452753-wall.jpg?v=1661547504&w=1920&h=1080",
+      "publishedAt": "2022-08-29T12:37:00Z",
+      "content": "Stock futures fell Monday as worries over rising rates and tighter monetary policy added fuel to a rout that began in the previous session.\r\nFutures for the Dow Jones Industrial Average slid 208 poin… [+1226 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Producers of Natalie Portman's \"Lady in the Lake\" Apple TV+ series threatened in Baltimore - WBFF FOX45 Baltimore",
+      "description": "An Apple TV+ series filming in Baltimore was forced to stop production Friday after several people threatened the producers and tried to extort money from th...",
+      "url": "https://www.youtube.com/watch?v=AQRlFHt6-Sk",
+      "urlToImage": "https://i.ytimg.com/vi/AQRlFHt6-Sk/hqdefault.jpg",
+      "publishedAt": "2022-08-29T12:17:13Z",
+      "content": null
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Al Jazeera",
+      "title": "Millions in need of aid as ‘unprecedented’ floods hit Pakistan - Al Jazeera English",
+      "description": "More than 1,000 people have died in the floods as authorities struggle to provide relief to flood victims.",
+      "url": "https://www.aljazeera.com/news/2022/8/29/catastrophic-flooding-overwhelms-pakistan",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/08/AP22240608178557.jpg?resize=1920%2C1440",
+      "publishedAt": "2022-08-29T11:19:40Z",
+      "content": "Millions of Pakistanis affected by the worst flooding in a decade are in desperate need of aid as authorities say they have been overwhelmed by the scale of the disaster, with the countrys climate mi… [+5681 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Daily Beast" },
+      "author": "Barbie Latza Nadeau",
+      "title": "Lynne Spears Says Britney Rejected Her in Instagram Post After Explosive YouTube Comments - The Daily Beast",
+      "description": "The post came after the pop star released a 20-minute YouTube explainer on what life was like for her under conservatorship.",
+      "url": "https://www.thedailybeast.com/lynne-spears-says-britney-rejected-her-in-instagram-post-after-explosive-youtube-comments",
+      "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1661768658/spears_v47bed",
+      "publishedAt": "2022-08-29T11:12:21Z",
+      "content": "The airing of Spears family dirty laundry continued Sunday evening after Britney Spears mother took to Instagram to offer her rebuttal to her daughters 20-minute YouTube rant in which she blamed her … [+601 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Bryan Pietsch",
+      "title": "Mississippi flood threat prompts Jackson mayor to urge evacuations - The Washington Post",
+      "description": "As many as 150 homes in and around Jackson, Miss., are threatened, the mayor said.",
+      "url": "https://www.washingtonpost.com/climate-environment/2022/08/29/mississippi-flooding-jackson-mayor/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U2DMDGRHDII63KIK7TSACXP4R4.jpg&w=1440",
+      "publishedAt": "2022-08-29T11:00:00Z",
+      "content": "Comment on this story\r\nResidents near the Pearl River in Mississippi prepared for flooding this weekend as the mayor of the capital, Jackson, warned people to evacuate as soon as possible if they had… [+1357 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Cosmopolitan.com" },
+      "author": "Mehera  Bonner",
+      "title": "Taylor Swift Teases Midnights Fashion Era at VMAs After Party - Cosmopolitan",
+      "description": "The dress speaks for itself!",
+      "url": "https://www.cosmopolitan.com/entertainment/a41016533/taylor-swift-vmas-after-party-look-midnights/",
+      "urlToImage": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/taylor-swift-attends-the-republic-records-mtv-vma-2022-news-photo-1661770076.jpg?crop=0.759xw:0.253xh;0.134xw,0.0658xh&resize=1200:*",
+      "publishedAt": "2022-08-29T10:56:11Z",
+      "content": "I don't know what you all were doing last night at midnight, but Taylor Swift was out here casually announcing a brand new album—right before hitting the VMAs after parties in what I'm fully convince… [+1316 chars]"
+    },
+    {
+      "source": { "id": "independent", "name": "Independent" },
+      "author": "Roisin O'Connor",
+      "title": "MTV VMAs 2022: Winners announced at raucous ceremony of shock cameos and surprise announcements - The Independent",
+      "description": "It’s been an eventful night over in New Jersey",
+      "url": "https://www.independent.co.uk/arts-entertainment/music/news/mtv-vmas-2022-live-winners-b2154616.html",
+      "urlToImage": "https://static.independent.co.uk/2022/08/29/08/taylor%20lizzo%20maneskin.jpg?quality=75&width=1200&auto=webp",
+      "publishedAt": "2022-08-29T10:21:14Z",
+      "content": "Jack Harlow and Maneskin pull out of Reading and Leeds festivals to perform at MTV VMAs\r\nReading and Leeds bosses were probably quite disgruntled to learn Italian rock band Maneskin and US rapper Jac… [+964 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Dana Smith",
+      "title": "A mutated virus, anti-vaxxers and a vulnerable population: how polio returned to the US - The Guardian US",
+      "description": "In July, a young man in the New York are was diagnosed with polio – how did a disease America snuffed out in the 70s rebound?",
+      "url": "https://amp.theguardian.com/us-news/2022/aug/29/polio-us-vaccines-new-york-rockland-county",
+      "urlToImage": "https://i.guim.co.uk/img/media/915aea935945367600c95c34a87906e76f05a420/0_192_5760_3456/master/5760.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9a39204ee66de8d550002308efbfcc0d",
+      "publishedAt": "2022-08-29T10:01:00Z",
+      "content": "This June, a young man from Rockland county, New York went to the emergency room. Hed been feverish for five days and was suffering from a stiff neck, pain in his back and abdomen, and constipation. … [+12768 chars]"
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": null,
+      "title": "Some Pixel 6 users are reporting increased idle battery drain on Android 13 - Android Police",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiY2h0dHBzOi8vd3d3LmFuZHJvaWRwb2xpY2UuY29tL3NvbWUtcGl4ZWwtNi11c2Vycy1yZXBvcnRpbmctaW5jcmVhc2VkLWlkbGUtYmF0dGVyeS1kcmFpbi1hbmRyb2lkLTEzL9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-08-29T09:41:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Sandee LaMotte, CNN",
+      "title": "Accidental poisoning of children by button batteries is on the rise, study finds - CNN",
+      "description": "Small lithium or \"button\" batteries that power many of our consumer devices are being swallowed by children in increasing numbers, a new report found.",
+      "url": "https://www.cnn.com/2022/08/29/health/button-batteries-child-poisonings-wellness/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220826162519-button-batteries-child-poisonings-wellness-swap-super-tease.jpg",
+      "publishedAt": "2022-08-29T09:34:00Z",
+      "content": "(CNN)An increasing number of little children are eating small lithium batteries, also known as \"button\" batteries, that power many of our consumer devices, with potentially serious consequences, even… [+5746 chars]"
+    }
+  ]
+}
